@@ -21,6 +21,6 @@ The goal of these computer assingments was not only to apply theoretical knowled
 ## 👨‍👩‍👧 Team Members  
 This project was completed as a team effort:  
 
-- [Amirarsalan Shahbazi]  
-- [Farjad Fallah]  
-- [Farnoush Fallah]  
+- [Amirarsalan Shahbazi](https://github.com/AMIRSH1383)
+- [Farjad Fallah](https://github.com/farjadfallah)
+- [Farnoush Fallah](https://github.com/Farnoush-Fallah)  
