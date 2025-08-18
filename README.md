@@ -1,6 +1,6 @@
 # 📊 Data Science Computer Assignments – University of Tehran  
 
-This repository contains implementations and reports of a **Data Science course assignments** completed as part of our undergraduate studies at the **University of Tehran**. The project was carried out collaboratively by a team of three students.  
+This repository contains implementations and reports of a **Data Science course assignments** completed as part of our undergraduate studies at the **University of Tehran**. The Computer Assingments were carried out collaboratively by a team of three students.  
 
 ## 📌 Computer Assingments Overview  
 The assignments focused on applying core concepts of **Data Science** to a real-world dataset. We practiced the end-to-end workflow of a typical data science project, including:  
